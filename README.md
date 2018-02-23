@@ -40,8 +40,7 @@ Firebase API they target. Each FirebaseUI library has a transitive
 dependency on the appropriate Firebase SDK so there is no need to include
 those separately in your app.
 
-In your `app/build.gradle` file add a dependency on one of the FirebaseUI
-libraries.
+In your `app/build.gradle` file add a dependency on one of the FirebaseUI libraries.
 
 dependencies {
 // FirebaseUI for Firebase Realtime Database
