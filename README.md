@@ -43,7 +43,6 @@ those separately in your app.
 In your `app/build.gradle` file add a dependency on one of the FirebaseUI
 libraries.
 
-```groovy
 dependencies {
 // FirebaseUI for Firebase Realtime Database
 implementation 'com.firebaseui:firebase-ui-database:3.2.1'
